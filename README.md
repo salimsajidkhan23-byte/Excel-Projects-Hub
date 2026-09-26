@@ -20,7 +20,7 @@ The objective of this project is to analyze sales performance and identify impor
 ● Quantity sold
 ● Average transaction value
 
-<a href="https://github.com/salimsajidkhan23-byte/Excel-Projects-Hub/blob/main/Dashboard%20Report.png">View Dashboard Screenshot</a>
+<img width="1582" height="657" alt="Dashboard Report" src="https://github.com/user-attachments/assets/4be52f32-e6e1-4d00-817a-807164e27235" />
 
 ## Tools Used
 
