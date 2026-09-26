@@ -52,6 +52,8 @@ The dashboard provides an interactive overview of retail sales performance.
 ● Sales by Payment Method
 ● Quantity Sold by Product Category
 
+<a href="https://github.com/salimsajidkhan23-byte/Excel-Projects-Hub/blob/main/SuperMarket%20%20Sales%20Report.xlsx">View Super Mart Sales Analysis Dashboard</a>
+
 ## Analysis Process
 
 ● Imported the raw dataset into Excel.
@@ -59,6 +61,6 @@ The dashboard provides an interactive overview of retail sales performance.
 ● Created calculated columns where required.
 ● Created Pivot Tables for analysis.
 ● Created Pivot Charts from the Pivot Tables.
-A dded slicers for interactive filtering.
-Designed an interactive Excel dashboard.
-Identified key business insights.
+● Added slicers for interactive filtering.
+● Designed an interactive Excel dashboard.
+● Identified key business insights.
