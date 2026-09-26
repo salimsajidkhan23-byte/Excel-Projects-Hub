@@ -4,6 +4,9 @@
 
 This project analyzes retail sales data using Microsoft Excel. The analysis was performed using Excel formulas, Pivot Tables, Pivot Charts, and an interactive dashboard.
 
+## Raw Dataset Used
+<a href="https://github.com/salimsajidkhan23-byte/Excel-Projects-Hub/blob/main/Supermart%20raw%20dataset.csv">Raw Dataset</a>
+
 ## Project Objective
 
 The objective of this project is to analyze sales performance and identify important patterns in:
